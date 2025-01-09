@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 500px;
+}
+
+form {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-danger {
+    font-size: 0.875rem;
+}
